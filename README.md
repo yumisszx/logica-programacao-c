@@ -21,3 +21,7 @@ Esses são alguns dos meus exercícios da matéria lógica de programação, foi
 </section>
 
 <!--exercicio 4-->
+<section>
+  <h2></h2>
+  <p></p>
+</section>
